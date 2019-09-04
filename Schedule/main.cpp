@@ -14,64 +14,30 @@
 
 using namespace std;
 
-void Monday();
-void Tuesday();
-void Wednesday();
-void Thursday();
-void Friday();
+const string m = "Monday    ";
+const string t = "Tuesday   ";
 
 
-void Phycology();
-void cpp();
-void Chem();
-void Calc_2();
-void Chem_lab();
+const string chem = "9:10    Chemistry   165";
+const string phy = "8:00    Phycology   111";
+const string calc = "10:20   Calculus    216";
+
 
 int main()
 {
     
+    cout<< m;
+    cout<< chem;
+    cout<< endl;
+    cout<< m;
+    cout<< calc;
+    cout<< endl;
+    cout<< m;
     
     
-    Monday();
-    Chem();
-    Monday();
-    Calc_2();
-    Monday();
-    cpp();
-    cout<< endl;
-    Tuesday();
-    Phycology();
-    Tuesday();
-    Calc_2();
-    Tuesday ();
-    cpp();
-    cout<< endl;
-    Wednesday();
-    Chem();
-    Wednesday();
-    Calc_2();
-    Wednesday();
-    cpp();
-    Wednesday();
-    Chem_lab();
     
     
     cout<< endl;
-    cout<< endl;
-    
-    
-    Thursday();
-    Phycology();
-    Thursday();
-    Calc_2();
-    Thursday();
-    cpp();
-    cout<< endl;
-    Friday();
-    Chem();
-    
-    
-    
     
     
     

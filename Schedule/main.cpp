@@ -24,7 +24,7 @@ const string th= "Thursday  ";
 const string f = "Friday    ";
 
 
-// const string of the classes, times, class number
+// const string of the classes, times, class number.
 
 const string chem = "9:10    Chemistry   165";
 const string phy = "8:00    Phycology   111";
@@ -84,7 +84,6 @@ int main()
     cout<< chem;
     cout<< endl;
     cout<< endl;
-    
     
     
     

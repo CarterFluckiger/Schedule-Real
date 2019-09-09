@@ -15,6 +15,8 @@
 
 using namespace std;
 
+// Const string for the days of the week
+
 const string m = "Monday    ";
 const string t = "Tuesday   ";
 const string w = "Wednesday ";
@@ -22,7 +24,7 @@ const string th= "Thursday  ";
 const string f = "Friday    ";
 
 
-
+// const string of the classes, times, class number
 
 const string chem = "9:10    Chemistry   165";
 const string phy = "8:00    Phycology   111";
@@ -32,6 +34,8 @@ const string chem_lab = "5:30    Chemistry   165";
 
 int main()
 {
+    
+    // The calls for the functions here
     
     cout<< m;
     cout<< chem;
@@ -74,18 +78,11 @@ int main()
     cout<< endl;
     cout<< th;
     cout<< cpp;
-    
     cout<< endl;
     cout<< endl;
     cout<< f;
     cout<< chem;
     cout<< endl;
-   
-
-    
-    
-    
-    
     cout<< endl;
     
     
